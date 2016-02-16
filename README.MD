@@ -1,5 +1,4 @@
 # MrTuomo's WoooW
-## [Download](https://github.com/ArtsiX/MrTuomo-WOOW-CSGO/releases)
 ### What it does?
 So basicly everything this does is that it will play the "WOOOW" sound effect everytime you get a kill.
 ## Can I get VAC banned for this?
@@ -9,3 +8,5 @@ Nope, this program is **100% VAC-FREE**. Everything that this program does is ju
 Everything that you have todo is to put the "**game_integration_woow.cfg**" file to your CS:GO cfg folder. It depends where you installed you're CS:GO, if you installed CS:GO to the default install path, then it should be here: "**C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg**"
 
 Then just start the program and you are ready to go!
+
+## [Download](https://github.com/ArtsiX/MrTuomo-WOOW-CSGO/releases)
