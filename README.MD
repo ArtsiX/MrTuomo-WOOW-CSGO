@@ -1,4 +1,5 @@
 # MrTuomo's WoooW
+## [Download](https://github.com/ArtsiX/MrTuomo-WOOW-CSGO/releases)
 ### What it does?
 So basicly everything this does is that it will play the "WOOOW" sound effect everytime you get a kill.
 ## Can I get VAC banned for this?
